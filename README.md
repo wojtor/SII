@@ -15,3 +15,13 @@ So for every music artist there were retrieved informations like Last News, Some
 * DataRaw
 * MusicClassifier
 * SiteWrapper
+
+
+## exec.rar contains:
+
+Just download the exec.rar and try it running the .exe in same unpack folder
+
+* CMR jar file
+* artists.txt
+* data.txt
+* ContextMusicRecom.exe
